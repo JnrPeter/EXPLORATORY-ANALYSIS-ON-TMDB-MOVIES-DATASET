@@ -1,7 +1,8 @@
 # EXPLORATORY-ANALYSIS-ON-TMDB-MOVIES-DATASET
 
-In this Project, an exploratory data analysis was performed an a dataset collected from the Movie Database (TMDb). The dataset contains information about 10,000 movies including information on user ratings and revenue. The Project has been organized into three seperate steps:
+In this Project, an Exploratory Data Analysis was performed on a dataset(Movie Database (TMDb)) obtained from kaggle. All the visualiations and Exploratory Analysis was performed using python. The dataset contains information about 10,000 movies including information on user ratings and revenue. The Project was organized into three seperate steps:
 
-* Data Wrangling
+* Data Wrangling 
 * Exploratory Analysis
-* Conclusions and Limitations
+* Conclusions which capture the insights found through exploratory analysis
+* Limitations 
